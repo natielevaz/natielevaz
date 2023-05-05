@@ -1,9 +1,9 @@
 # Natiele Vaz <img src="https://i.gifer.com/origin/87/87863c1f95e7173189a1a1a1e714373a_w200.gif" width="60px">
 
-Eu sou <strong>Natiele Vaz</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Natiele Vaz</strong>, <strong>.....</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript | MongoDB | Node.js | Git | HTML | CSS</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
+- 💬 Pergunte-me sobre: <strong>....</strong>
 - 📣 Nós podemos falar em: <strong>Português e Espanhol</strong>
 
 <div align="center">
