@@ -12,7 +12,8 @@ Eu sou <strong>Natiele Vaz</strong>, <strong>Faça uma breve apresentação aqui
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natiele-vaz-7b4399173/3//)](https://www.linkedin.com/in/natiele-vaz-7b4399173////)
  
-  <a href="#<a href=mailto:nvnativaz@gmail.com " " alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+   <a href="mailto:nvnativaz@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nvnativaz@gmail.com"/></a>
+
 
 </div>
