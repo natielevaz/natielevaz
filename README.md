@@ -8,7 +8,7 @@ Eu sou <strong>Natiele Vaz</strong>, <strong>Faça uma breve apresentação aqui
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natiele-vaz-7b4399173//)](https://www.linkedin.com/in/natiele-vaz-7b4399173///)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natiele-vaz-7b4399173/3//)](https://www.linkedin.com/in/natiele-vaz-7b4399173////)
  
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/geovana-lima-8312a7274/)](https://www.linkedin.com/in/geovana-lima-8312a7274//)
   
