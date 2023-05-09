@@ -3,7 +3,7 @@
 Olá, me chamo <strong>Natiele Vaz</strong>, sou turismóloga em transição de carreira e recém chegada na área de tecnologia a partir do curso para Desenvolvedor Full Stack (em andamento) pelo Programa de Formação e Empregabilidade de Mulheres em Tecnologia da Informação e Comunicação oferecido pelo Senac-PE/Porto Digital. 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript | MongoDB | Node.js | Git | HTML | CSS</strong> 
-- 💬 Podemos conversar, principalmente, sobre: <strong>Cultura, música, viagens e filmes de animação</strong>
+- 💬 Podemos conversar, principalmente, sobre: <strong>Cultura, Música, Viagens e Filmes de Animação</strong>
 - 📣 Nós podemos falar em: <strong>Português e Espanhol</strong>
 
 <div align="center">
