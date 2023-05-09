@@ -1,6 +1,6 @@
 # Natiele Vaz <img src="https://i.gifer.com/origin/87/87863c1f95e7173189a1a1a1e714373a_w200.gif" width="60px">
 
-Olá, sou <strong>Natiele Vaz</strong>, <strong>Turismóloga em transição de carreira e recém chegada na área de tecnologia a partir do curso para Desenvolvedor Full Stack (ainda em andamento) pelo Programa de Formação e Empregabilidade de Mulheres em Tecnologia da Informação e Comunicação oferecido pelo Senac-PE/Porto Digital.  </strong> 👨🏻‍💻 
+Olá, me chamo <strong>Natiele Vaz</strong>, <strong> sou turismóloga em transição de carreira e recém chegada na área de tecnologia a partir do curso para Desenvolvedor Full Stack (ainda em andamento) pelo Programa de Formação e Empregabilidade de Mulheres em Tecnologia da Informação e Comunicação oferecido pelo Senac-PE/Porto Digital.  </strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript | MongoDB | Node.js | Git | HTML | CSS</strong> 
 - 💬 Podemos conversar, principalmente, sobre: <strong>Cultura, Música e Viagens</strong>
